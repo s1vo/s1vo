@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="50" height="50"> I'm Michael Sivokon</h1>
 <img src="https://readme-typing-svg.herokuapp.com?size=23&color=1e5ebd&lines=Frontend+developer+from+Russia" width="500">
 
-- 🔭 I’m currently working on **React Native**
+- 🔭 I’m currently working on **React**
 
 - 💬 Ask me about **React, JavaScript, Php**
 
