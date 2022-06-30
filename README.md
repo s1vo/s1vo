@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, JavaScript, Php**
 
-- 📫 How to reach me **https://t.me/s1vo13**
+- 📫 How to reach me **sivokonma@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
