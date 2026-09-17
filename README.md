@@ -1,25 +1,100 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="50" height="50"> I'm Michael Sivokon</h1>
-<img src="https://readme-typing-svg.herokuapp.com?size=23&color=1e5ebd&lines=Frontend+developer+from+Russia" width="500">
-
-- 🔭 I’m currently working on **React**
-
-- 💬 Ask me about **React, JavaScript, Php**
-
-- 📫 How to reach me **sivokonma@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/s1vo13" target="blank"><img align="center" src="https://galinaseregina.ru/wp-content/uploads/tg-1024x1024.png" alt="s1vo" height="40" width="40" /></a>
-<a href="https://instagram.com/s1vo13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s1vo13" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://s1vo-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/S1VO-1E5EFF?style=for-the-badge" alt="S1VO — personal portfolio" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-<hr>
+<h1 align="center">Michael Sivokon</h1>
+
+<p align="center">
+  <strong>Team Lead &amp; Fullstack Developer</strong><br />
+  React interfaces. Backend services. Thoughtful user experiences.
+</p>
+
+<p align="center">
+  <a href="https://s1vo-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/View_Portfolio-1E5EFF?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="View portfolio" />
+  </a>
+  <a href="https://t.me/s1vo13">
+    <img src="https://img.shields.io/badge/Telegram-172033?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram: @s1vo13" />
+  </a>
+  <a href="mailto:sivokonma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-172033?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email: sivokonma@gmail.com" />
+  </a>
+</p>
+
+<br />
+
+About
+
+I'm a developer from Russia working across frontend and backend, with a focus on React.
+I lead a development team and build web applications with JavaScript, Node.js and PHP.
+
+Current focus: React applications and clear, usable interfaces.
+
+Backend: application logic, APIs and databases.
+
+Ask me about: React, JavaScript and PHP.
+
+My work: explore my portfolio →
+
+Tech stack
+
+Frontend
+
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1vo">
-<img src="https://github-readme-stats.vercel.app/api?username=s1vo&theme=defualt&show_icons=true">
-
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,bootstrap&amp;theme=dark" alt="React, JavaScript, HTML5, CSS3, Sass, Bootstrap" />
 </p>
 
+Backend & data
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,postgres,mongodb&amp;theme=dark" alt="Node.js, PHP, PostgreSQL, MongoDB" />
+</p>
+
+Tools & infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,figma,webpack,babel&amp;theme=dark" alt="Docker, Nginx, Figma, Webpack, Babel" />
+</p>
+
+<details>
+  <summary>Also in my toolkit</summary>
+  <br />
+  <p>
+    <img src="https://img.shields.io/badge/Vue.js-172033?style=flat-square&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/React_Native-172033?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React Native" />
+    <img src="https://img.shields.io/badge/Chart.js-172033?style=flat-square&amp;logo=chartdotjs&amp;logoColor=FF6384" alt="Chart.js" />
+  </p>
+</details>
+
+On GitHub
+
+<!-- These cards are generated by an external service from public GitHub data. -->
+
+<p align="center">
+  <a href="https://github.com/s1vo">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=s1vo&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=6C9EFF&amp;icon_color=6C9EFF&amp;text_color=C9D1D9&amp;custom_title=GitHub%20Activity" />
+      <img width="400" src="https://github-stats-extended.vercel.app/api?username=s1vo&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=1E5EFF&amp;icon_color=1E5EFF&amp;text_color=334155&amp;custom_title=GitHub%20Activity" alt="Michael Sivokon's public GitHub activity" />
+    </picture>
+  </a>
+  <a href="https://github.com/s1vo?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=s1vo&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=6C9EFF&amp;text_color=C9D1D9&amp;card_width=330" />
+      <img width="330" src="https://github-stats-extended.vercel.app/api/top-langs/?username=s1vo&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=1E5EFF&amp;text_color=334155&amp;card_width=330" alt="Most used languages in public repositories" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Language statistics reflect public repository code, not proficiency.</sub>
+</p>
+
+<p align="center">
+  <strong>Let's talk about your next project.</strong><br /><br />
+  <a href="https://s1vo-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://t.me/s1vo13">Telegram</a> &nbsp;·&nbsp;
+  <a href="mailto:sivokonma@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://instagram.com/s1vo13">Instagram</a>
+</p>
