@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="244" viewBox="0 0 1280 244" role="img" aria-labelledby="title desc">
+<title id="title">The working set</title><desc id="desc">Interface: React, JavaScript, Vue, React Native, HTML, CSS, Sass. Logic and data: Node.js, PHP, PostgreSQL, MongoDB. Tools: Docker, Nginx, Webpack, Figma.</desc>
+<rect width="1280" height="244" rx="8" fill="#202621"/>
+<g stroke="#46513F"><path d="M426 32V212M853 32V212"/></g>
+<g font-family="Arial, Helvetica, sans-serif">
+<g fill="#EF7853" font-size="14" font-family="monospace" letter-spacing="2"><text x="36" y="47">01 / INTERFACE</text><text x="462" y="47">02 / LOGIC &amp; DATA</text><text x="889" y="47">03 / WORKBENCH</text></g>
+<g fill="#F1F0E8" font-size="31" font-weight="700" letter-spacing="-1"><text x="36" y="103">What you see.</text><text x="462" y="103">What makes it work.</text><text x="889" y="103">How it comes together.</text></g>
+<g fill="#BAC5AF" font-size="17"><text x="36" y="151">React · JavaScript · Vue</text><text x="36" y="181">React Native · HTML · CSS · Sass</text><text x="462" y="151">Node.js · PHP</text><text x="462" y="181">PostgreSQL · MongoDB</text><text x="889" y="151">Docker · Nginx · Webpack</text><text x="889" y="181">Figma · Babel · Bootstrap · Chart.js</text></g>
+</g></svg>

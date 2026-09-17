@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="590" viewBox="0 0 1280 590" role="img" aria-labelledby="title desc">
+<title id="title">S1VO — Michael Sivokon</title>
+<desc id="desc">Team Lead and Fullstack Developer. Build it clear. Editorial cover with three architectural layers: interface, logic and data.</desc>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1C2420" opacity=".11"/></pattern>
+</defs>
+<rect width="1280" height="590" rx="8" fill="#F1F0E8"/>
+<rect x="650" y="90" width="580" height="404" fill="url(#grid)"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#202621">
+  <path d="M56 42h12v12H56z M74 42h12v12H74z M56 60h12v12H56z" fill="#EF512F"/>
+  <text x="106" y="62" font-size="17" font-weight="700" letter-spacing="2">MICHAEL SIVOKON</text>
+  <text x="1224" y="61" text-anchor="end" font-family="monospace" font-size="14" letter-spacing="1">PERSONAL INDEX / 001</text>
+  <path d="M56 95H1224" stroke="#C9CEC3"/>
+  <text x="50" y="279" font-size="174" font-weight="900" letter-spacing="-13">S1VO<tspan fill="#EF512F">.</tspan></text>
+  <text x="59" y="351" font-size="51" font-weight="700" letter-spacing="-2">Build it clear.</text>
+  <text x="60" y="405" font-size="19">Team Lead &amp; Fullstack Developer</text>
+  <text x="60" y="436" font-size="17" fill="#646D61">From the first pixel to the last endpoint.</text>
+  <path d="M654 130V466" stroke="#CBD0C5"/>
+  <text x="696" y="132" font-family="monospace" font-size="13" letter-spacing="1.5" fill="#6C7468">THINK IN LAYERS.</text>
+  <!-- Three isometric planes, drawn as editable SVG geometry. -->
+  <g transform="translate(919 283) matrix(.83 .37 -.83 .37 0 0)">
+    <rect width="316" height="228" rx="9" fill="#DEE2D5" stroke="#9AA38E" stroke-width="2"/>
+    <g fill="none" stroke="#AAB39F" stroke-width="1.5">
+      <path d="M32 28H284V200H32z M32 70H284 M32 113H284 M32 156H284 M95 28V200 M158 28V200 M221 28V200"/>
+    </g>
+    <g fill="#202621"><rect x="49" y="43" width="28" height="12" rx="3"/><rect x="175" y="86" width="28" height="12" rx="3"/><rect x="112" y="129" width="28" height="12" rx="3"/></g>
+  </g>
+  <g transform="translate(919 220) matrix(.83 .37 -.83 .37 0 0)">
+    <rect width="316" height="228" rx="9" fill="#EF512F" stroke="#AE3D24" stroke-width="2"/>
+    <g fill="none" stroke="#F7C8B8" stroke-width="3"><path d="M74 74H151V155H241 M74 155H151 M241 74H192V115H151"/></g>
+    <g fill="#202621"><rect x="53" y="54" width="42" height="40" rx="7"/><rect x="53" y="135" width="42" height="40" rx="7"/><rect x="220" y="54" width="42" height="40" rx="7"/><rect x="220" y="135" width="42" height="40" rx="7"/></g>
+    <rect x="132" y="96" width="39" height="39" rx="6" fill="#F1F0E8"/>
+  </g>
+  <g transform="translate(919 151) matrix(.83 .37 -.83 .37 0 0)">
+    <rect width="316" height="228" rx="9" fill="#202621" stroke="#101811" stroke-width="2"/>
+    <path d="M0 38H316" stroke="#54614E" stroke-width="2"/>
+    <circle cx="21" cy="19" r="4" fill="#EF512F"/><circle cx="37" cy="19" r="4" fill="#909B82"/><circle cx="53" cy="19" r="4" fill="#909B82"/>
+    <rect x="22" y="59" width="79" height="146" rx="4" fill="#333F30"/>
+    <rect x="116" y="59" width="177" height="45" rx="4" fill="#F1F0E8"/>
+    <rect x="116" y="119" width="80" height="86" rx="4" fill="#3D4A36"/><rect x="211" y="119" width="82" height="86" rx="4" fill="#3D4A36"/>
+    <g stroke="#9EAE8E" stroke-width="5" stroke-linecap="round"><path d="M37 79H82 M37 96H70 M37 128H80 M37 145H70 M132 143H177 M132 159H163 M226 143H274 M226 159H258"/></g>
+    <path d="M133 74l9 8-9 8m16 0h14" fill="none" stroke="#EF512F" stroke-width="3.5"/>
+    <rect x="222" y="76" width="51" height="11" rx="4" fill="#C3CFB8"/>
+  </g>
+  <g font-family="monospace" font-size="12" fill="#58634F">
+    <path d="M1128 246h55" fill="none" stroke="#99A38F"/><text x="1189" y="250">UI</text>
+    <path d="M1128 315h55" fill="none" stroke="#99A38F"/><text x="1189" y="319">API</text>
+    <path d="M1128 378h55" fill="none" stroke="#99A38F"/><text x="1189" y="382">DB</text>
+  </g>
+  <path d="M56 490H1224" stroke="#C9CEC3"/>
+  <circle cx="66" cy="538" r="6" fill="#EF512F"/>
+  <text x="86" y="544" font-size="16" font-weight="700">REACT / JAVASCRIPT / PHP</text>
+  <text x="1196" y="544" text-anchor="end" font-size="16">Explore my work</text>
+  <path d="M1209 543l13-13m-12 0h12v12" fill="none" stroke="#EF512F" stroke-width="2"/>
+</g></svg>
